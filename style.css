@@ -5,7 +5,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(piture/nature.webp);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(nature.webp);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -251,7 +251,7 @@ h3{
 .cta {
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(piture/two.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(two.jpg);
     background-position: center;
     background-color: cover;
     border-radius: 10px;
@@ -294,7 +294,7 @@ h3{
     height: 50vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),
-    url(piture/pinkflower.jpg);
+    url(pinkflower.jpg);
     background-position: center;
     text-align: center;
     color: white;
@@ -337,7 +337,7 @@ h3{
     height: 50vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),
-    url(piture/one.jpg);
+    url(one.jpg);
     background-position: center;
     text-align: center;
     color:white;
@@ -355,7 +355,7 @@ h3{
     height: 50vh;
     width: 100%;
      background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),
-    url(piture/one.jpg);
+    url(one.jpg);
     background-position: center;
     text-align: center;
     color: white;
